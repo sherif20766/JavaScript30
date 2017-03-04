@@ -47,3 +47,10 @@
       transition: all 0.05s;
       transition-timing-function: cubic-bezier(0.32, 2.56, 0.92, 0.85)
     }
+
+    .hour-hand{
+      width: 30%;
+      left:60px;
+    }
+    
+    .second-hand{height:3px;}
